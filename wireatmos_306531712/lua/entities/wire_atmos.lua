@@ -2,6 +2,7 @@
 Simple Addon to get AtmosGlobal (weather addon) vars
 and send it to outputs for usage with Wiremod.
 
+snow fuctionality by: hydrogen_poo
 Created by: NickMaps
 Creator of Atmos: Looter
 
